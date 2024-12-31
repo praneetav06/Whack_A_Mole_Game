@@ -16,3 +16,9 @@ A fun and interactive **Whack-a-Mole** game built using HTML, CSS, and JavaScrip
 2. Click on the moles as they pop up to earn points.
 3. Keep an eye on the timer—the game ends when time runs out.
 4. Your final score will be displayed at the end of the game.
+
+## Technologies Used
+
+- **HTML**: Structure of the game.
+- **CSS**: Styling and animations for the game elements.
+- **JavaScript**: Game logic, scoring, and timer functionality.
